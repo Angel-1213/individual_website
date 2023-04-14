@@ -1,0 +1,108 @@
+.text-style {
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+}
+
+
+.font-style-text {
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.style-title {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#early-era-title {
+    text-align: center;
+    margin-top: -680px;
+    padding-left: 550px;
+    font-size: 23px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px orange;
+    width: 500px;
+}
+
+
+#hunting-image {
+    opacity: 0.3;
+    margin-top: 30px;
+    padding-left: 200px;
+    height: 390px;
+    width: 510px;
+}
+
+
+
+#skeleton {
+    margin-top: -290px;
+    padding-left: 300px;
+}
+
+#men-role {
+    padding-left: 820px;
+    margin-top: -150px;
+    width: 40%;
+}
+
+
+#women-role {
+    padding-left: 310px;
+    margin-top: 270px;
+    width: 40%;
+}
+
+#instruction {
+    padding-left: 290px;
+    margin-top: -5px;
+}
+
+#arrow-animate {
+    padding-left: 400px;
+    margin-top: 0px;
+    height: 186px;
+    width: 250px;
+}
+
+.image-container {
+    position: relative;
+}
+
+#care-taker-image {
+    position: absolute;
+    top: -420px;
+    left: 690px;
+    height: 350px;
+    width: 540px;
+    transition: opacity 2s ease-in-out;
+    opacity: 1;
+    z-index: 1;
+}
+
+#care-taker-image:hover {
+    opacity: 0;
+}
+
+.roles {
+    position: relative;
+    top: -300px;
+    padding-left: 795px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    z-index: 0;
+}
+
+a.paper-links {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    color: rgb(156, 67, 132);
+}

@@ -1,0 +1,146 @@
+#transportation-title {
+    text-align: center;
+    margin-top: -680px;
+    padding-left: 550px;
+    line-height: 30px;
+    font-size: 23px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px orange;
+    width: 500px;
+}
+
+#transportation-text {
+    padding-left: 250px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+
+#danger-title {
+    padding-left: 250px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+
+#danger-text {
+    padding-left: 250px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    margin-top: 40px;
+}
+
+#section-options {
+    margin-right: 400px;
+}
+
+#single-line {
+    margin-left: 230px;
+    width: 86%;
+}
+
+#sentence {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+}
+
+.calculations {
+    padding-left: 280px;
+    margin-top: 30px;
+    text-align: left;
+    line-height: 22px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+
+.equations {
+    padding-left: 250px;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 22px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+
+#pie-chart-image {
+    display: none;
+    height: 330px;
+    width: 420px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+a:hover+#pie-chart-image {
+    display: block;
+}
+
+#pictograph {
+    height: 330px;
+    width: 420px;
+    margin-top: -266px;
+    margin-left: 960px;
+}
+
+#difference-title {
+    padding-left: 250px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+
+#difference-text {
+    padding-left: 250px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+    margin-top: 40px;
+}
+
+#bar-chart {
+    height: 555px;
+    width: 796px;
+    margin-top: -5px;
+    margin-left: 450px;
+}
+
+.rectangle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+#rectangle {
+    margin-top: -480px;
+    margin-left: 120px;
+    height: 320px;
+    width: 300px;
+    background-color: rgb(244, 214, 157);
+}
+
+#label-text {
+    margin-top: -320px;
+    padding-left: 130px;
+    line-height: 30px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 20%;
+}
+
+a.paper-links {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    color: rgb(156, 67, 132);
+}

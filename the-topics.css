@@ -1,0 +1,49 @@
+.topics {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 30px;
+}
+
+.width {
+    width: 80%;
+}
+
+#topics-title {
+    margin-top: -680px;
+    padding-left: 550px;
+    font-size: 23px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px orange;
+    text-transform: uppercase;
+    width: 500px;
+}
+
+#topics-text {
+    padding-left: 250px;
+    font-size: 17px;
+}
+
+#follow {
+    padding-left: 240px;
+    text-align: left;
+    font-size: 18px;
+}
+
+.five-aspects {
+    padding-left: 240px;
+    text-align: left;
+    font-size: 17px;
+    width: 80%;
+}
+
+a.def-links {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: green;
+}
+
+a.paper-links {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    color: rgb(156, 67, 132);
+}
