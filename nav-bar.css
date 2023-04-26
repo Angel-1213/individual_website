@@ -2,6 +2,9 @@
     height: 300px;
 }
 
+@media only screen and (max-width: 320) {
+}
+
 .brand-container {
     float: left;
 }
